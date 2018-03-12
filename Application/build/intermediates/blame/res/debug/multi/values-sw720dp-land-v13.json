@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 58,
+                        "endOffset": 632
+                    }
+                }
+            }
+        ]
+    }
+]

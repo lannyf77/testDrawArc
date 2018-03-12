@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:16:1-38:12
+	package
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:17:5-46
+		INJECTED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:19:5-30
+		INJECTED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:18:5-28
+		INJECTED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:23:5-36:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/linma9/.android/build-cache/05bb4a37c7136b3b0869bf1bc814d01cb52070cb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/linma9/.android/build-cache/c47781baec61c8f0e71532b3d961ef40584c0485/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/linma9/.android/build-cache/2a8625f5c090e3a3469fab73ac6b840044e335fa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/linma9/.android/build-cache/9b5380992eb148fcce8f60accd0e68bad6eeab03/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/linma9/.android/build-cache/6b8207e17e05856f1eedad91253b333aa0173eda/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/linma9/.android/build-cache/6c70b937a10d70b2947f432de1b028d4c9bb9103/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/linma9/.android/build-cache/ee077eeef768b96e1a04f718136c14d6105d24e5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/linma9/.android/build-cache/445db2b437c024323f29acd2af5ea5b2e3970a62/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/linma9/.android/build-cache/315946191ba62e26fcda4e9e70e1fc7928211cd5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/linma9/.android/build-cache/ff3d9ed5a16d917f28c15e5bc1596ab7987fd885/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:25:9-45
+	android:theme
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.customfancontroller.MainActivity
+ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:28:9-35:20
+	android:label
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:29:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/linma9/.android/build-cache/05bb4a37c7136b3b0869bf1bc814d01cb52070cb/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/linma9/.android/build-cache/c47781baec61c8f0e71532b3d961ef40584c0485/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/linma9/.android/build-cache/2a8625f5c090e3a3469fab73ac6b840044e335fa/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/linma9/.android/build-cache/9b5380992eb148fcce8f60accd0e68bad6eeab03/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/linma9/.android/build-cache/6b8207e17e05856f1eedad91253b333aa0173eda/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/linma9/.android/build-cache/6c70b937a10d70b2947f432de1b028d4c9bb9103/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/linma9/.android/build-cache/ee077eeef768b96e1a04f718136c14d6105d24e5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/linma9/.android/build-cache/445db2b437c024323f29acd2af5ea5b2e3970a62/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/linma9/.android/build-cache/315946191ba62e26fcda4e9e70e1fc7928211cd5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/linma9/.android/build-cache/ff3d9ed5a16d917f28c15e5bc1596ab7987fd885/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/linma9/.android/build-cache/05bb4a37c7136b3b0869bf1bc814d01cb52070cb/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/linma9/.android/build-cache/05bb4a37c7136b3b0869bf1bc814d01cb52070cb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/linma9/.android/build-cache/c47781baec61c8f0e71532b3d961ef40584c0485/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/linma9/.android/build-cache/2a8625f5c090e3a3469fab73ac6b840044e335fa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/linma9/.android/build-cache/9b5380992eb148fcce8f60accd0e68bad6eeab03/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/linma9/.android/build-cache/6b8207e17e05856f1eedad91253b333aa0173eda/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/linma9/.android/build-cache/6c70b937a10d70b2947f432de1b028d4c9bb9103/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/linma9/.android/build-cache/ee077eeef768b96e1a04f718136c14d6105d24e5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/linma9/.android/build-cache/445db2b437c024323f29acd2af5ea5b2e3970a62/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/linma9/.android/build-cache/315946191ba62e26fcda4e9e70e1fc7928211cd5/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/linma9/.android/build-cache/05bb4a37c7136b3b0869bf1bc814d01cb52070cb/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/linma9/.android/build-cache/05bb4a37c7136b3b0869bf1bc814d01cb52070cb/output/AndroidManifest.xml:26:9-47

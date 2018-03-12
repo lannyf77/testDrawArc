@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/linma9/.android/build-cache/05bb4a37c7136b3b0869bf1bc814d01cb52070cb/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/linma9/.android/build-cache/05bb4a37c7136b3b0869bf1bc814d01cb52070cb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/linma9/.android/build-cache/05bb4a37c7136b3b0869bf1bc814d01cb52070cb/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/linma9/.android/build-cache/05bb4a37c7136b3b0869bf1bc814d01cb52070cb/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

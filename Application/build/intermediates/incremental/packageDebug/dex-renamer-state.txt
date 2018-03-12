@@ -1,0 +1,4 @@
+#Mon Mar 12 07:43:54 EDT 2018
+base.0=/Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/linma9/dev_as/test_sample/android-advanced-master/CustomFanController/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
